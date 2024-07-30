@@ -1,4 +1,4 @@
-#by Daniel Simião https://github.com/DanSonnyk
+#by Daniel Simião https://github.com/DanSonnyk/shscripts.git
 #Script to calculate average of cpu and memory usage
 
 # Intervalo de amostragem em segundos
